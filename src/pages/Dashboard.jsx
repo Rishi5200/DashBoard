@@ -59,9 +59,6 @@ return (
 Welcome {isAdmin ? 'Dentist' : ownPatients[0]?.name || 'Patient'}
 </Typography>
 
-php-template
-Copy
-Edit
   {isAdmin ? (
     <>
       <Grid container spacing={2} sx={{ mb: 4 }}>
