@@ -116,9 +116,6 @@ return (
 {patient.name}
 </Typography>
 
-php-template
-Copy
-Edit
   <Paper sx={{ p: 2, mb: 3 }}>
     <Typography>DOB: {patient.dob}</Typography>
     <Typography>Contact: {patient.contact}</Typography>
